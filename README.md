@@ -1,4 +1,4 @@
-"""# Jueves-3PM - Repositorio de Desarrollo
+# Jueves-3PM - Repositorio de Desarrollo
 
 Bienvenido al repositorio oficial del grupo **Jueves-3PM**. Este espacio está dedicado a la organización, desarrollo y documentación de diversos proyectos de software, abarcando desde aplicaciones de escritorio hasta lógica de videojuegos y gestión de herramientas de desarrollo.
 
